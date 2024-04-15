@@ -1,0 +1,20 @@
+{
+  "name": "creacion-servidor-basico---helueni-y-ruiz---copia",
+  "version": "1.0.0",
+  "description": "hola nuestro  nombre es nacho y lucas",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon index.js"
+  },
+  "keywords": [
+    "ES"
+  ],
+  "author": "martin",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.19.2",
+    "mysql2": "^3.9.4",
+    "nodemon": "^3.1.0"
+  }
+}
